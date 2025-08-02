@@ -25,9 +25,6 @@ Welcome to the **Natural Language Processing (NLP)** with **Python** repository!
 
 ---
 
-
----
-
 ## ✅ Ideal For
 - NLP Beginners 👶  
 - Data Scientists 📊  
