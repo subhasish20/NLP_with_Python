@@ -1,0 +1,10 @@
+nltk # for natural language processing
+numpy # for array operation
+pandas # for data manupulation
+
+matplotlib # for data visualization
+seaborn # data visualization
+
+Scikit-learn # for machine learning 
+
+wordcloud # for maiking wordcloud
