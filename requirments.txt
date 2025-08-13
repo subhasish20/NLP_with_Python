@@ -8,3 +8,7 @@ seaborn # data visualization
 Scikit-learn # for machine learning 
 
 wordcloud # for maiking wordcloud
+
+re # regula expression
+
+emoji # for emoj removal
