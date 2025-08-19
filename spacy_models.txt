@@ -1,0 +1,12 @@
+python -m spacy download en_core_web_sm ( small size 12mb )
+
+python -m spacy download en_core_web_md (medium 45mb)
+
+python -m spacy download en_core_web_lg (large model 400 mb )
+
+python -m spacy download en_core_web_trf (tranformer model 1.5gb)
+
+
+
+
+
